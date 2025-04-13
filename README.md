@@ -37,7 +37,7 @@ DAO Voting Pattern Analyzer aims to bridge this gap by providing a user-friendly
 - Data Source: Public DAO voting datasets (e.g., Snapshot.org exports or custom scraped data)
 
 ## 📌 Project Explanation
---
+
 - The project workflow includes:
 
 - Data Collection & Cleaning
@@ -66,6 +66,6 @@ DAO Voting Pattern Analyzer aims to bridge this gap by providing a user-friendly
 
 - Ensured smooth interaction and cross-device compatibility.
 
-##🖼️ Screenshots
+## 🖼️ Screenshots
 ![Prototype pic 1](https://github.com/Konda-coder/DAO-Voting-Pattern-Analyzer/blob/7f60862ca6cf8e3268a481b1289c48a0ca8f0317/DashBoard.png)
 
