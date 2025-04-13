@@ -20,9 +20,8 @@ To analyze and visualize voting patterns across Decentralized Autonomous Organiz
 
 ## 📝 Abstract / Problem Description
 --
-DAOs are reshaping digital governance by enabling decentralized, community-led decision-making. However, analyzing DAO voting data can be complex due to varying formats, on-chain data volumes, and lack of intuitive visualization tools.
 
-DAO Voting Pattern Analyzer aims to bridge this gap by providing a user-friendly platform that visualizes key metrics like voting turnout, proposal trends, and participation rates across different states and years. It helps DAO members, researchers, and developers gain a deeper understanding of governance behavior and participation dynamics over time. The tool uses an embedded Power BI dashboard for real-time insights and enables filtering by state and year for localized analysis.
+- DAO Voting Pattern Analyzer aims to bridge this gap by providing a user-friendly platform that visualizes key metrics like voting turnout, proposal trends, and participation rates across different states and years. It helps DAO members, researchers, and developers gain a deeper understanding of governance behavior and participation dynamics over time. The tool uses an embedded Power BI dashboard for real-time insights and enables filtering by state and year for localized analysis.
 --
 ## 🛠️ Tech Stack Used
 --
